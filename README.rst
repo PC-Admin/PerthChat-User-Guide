@@ -4,7 +4,7 @@
 PerthChat User Guide
 ====================
 
-Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (IRC), all across a federated network of community run servers.
+Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (discord), all across a federated network of community run servers.
 
 The service was created to provide a secure, open source and ad-free messaging experience with no strings attached.
 
