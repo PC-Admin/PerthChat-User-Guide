@@ -37,7 +37,6 @@ How do I use PerthChat with the Desktop/Mobile software?
 4. Enter desired username and password and click ‘Register’.
 
 .. image:: Mobile-Register.gif
-<img src="Mobile-Register.gif" width="800" height="600">
 
 .. image:: Desktop-Register.gif
 
