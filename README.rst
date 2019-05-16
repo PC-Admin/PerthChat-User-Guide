@@ -73,7 +73,7 @@ You can also type in other known homeservers here.
 Can I donate or help?
 =====================
 
-Sure, the service costs about $600 USD a year to run, some paying for it would be great:
+Sure, the service costs about $500 USD a year to run, some help paying for it would be great:
 
 .. image:: Bitcoin_Address.png
 
