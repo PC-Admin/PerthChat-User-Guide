@@ -65,7 +65,7 @@ On mobile select the ‘rooms’ category at the bottom, then open the ‘Room D
 
 On desktop/browser, select the ‘Room directory "+"’ option in the left column, then select ‘matrix.org' from the dropdown in the top right corner.
 
-.. image:: Desktop-rooms.gif
+.. image:: Desktop-Rooms.gif
 
 You can also type in other known homeservers here.
 
