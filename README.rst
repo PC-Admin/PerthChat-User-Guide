@@ -73,9 +73,13 @@ You can also type in other known homeservers here.
 Can I donate or help?
 =====================
 
-Perthchat.org is currently quite cheap to run. We need people to help and encourage others to connect to perthchat.
+Sure, the service costs about $600 USD a year to run, some paying for it would be great:
 
-Matrix.org needs more funding to help develop Matrix and bring it out of beta, If you want to support us, consider donating to them:
+.. image:: Bitcoin_Address.png
+
+BTC: bc1q92x9rexsr7yvghmyjkdjg8th8f2xyctfuwr4dl
+
+Matrix.org needs more funding to help develop Matrix and bring it out of beta, If you want to support us, consider donating to them as well:
 https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/
 
 
