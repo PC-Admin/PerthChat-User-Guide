@@ -25,12 +25,6 @@ How do I use PerthChat online?
 Just visit https://perthchat.org and click 'register'.
 
 
-Can i use it without registering?
-=================================
-
-Yes, just try and enter the room you wish to join on the browser, you'll be prompted to set a username.
-
-
 How do I use PerthChat with the Desktop/Mobile software?
 ========================================================
 
@@ -38,11 +32,13 @@ How do I use PerthChat with the Desktop/Mobile software?
 
 2. Select 'Register' or 'Create an account'.
 
-3. Select ‘Custom Server’ and change ‘https://matrix.org’ to ‘https://perthchat.org’:
-
-.. image:: Register.png
+3. Select "custom server" and change ‘https://matrix.org’ to ‘https://perthchat.org’:
 
 4. Enter desired username and password and click ‘Register’.
+
+.. image:: Mobile-Register.gif
+
+.. image:: Desktop-Register.gif
 
 Note: If the username you set was ‘Stewo’ then your full Matrix ID would be:
 @Stewo:perthchat.org (case sensitive)
@@ -63,13 +59,15 @@ What should I do after logging in?
 How do I browse more rooms?
 ===========================
 
-On mobile select the ‘rooms’ category at the bottom, then select the ‘Room Directory’ dropdown. Select ‘matrix.org’ when prompted. The new room list will take a minute to load.
+On mobile select the ‘rooms’ category at the bottom, then open the ‘Room Directory’ dropdown. Select ‘matrix.org’ when prompted. The new room list will take about a minute to load so be patient.
 
-.. image:: Mobile.png
+.. image:: Mobile-Rooms.gif
 
-On desktop/browser, select the ‘Room directory’ option in the bottom left corner, then select ‘matrix.org from the dropdown in the top right corner.
+On desktop/browser, select the ‘Room directory "+"’ option in the left column, then select ‘matrix.org' from the dropdown in the top right corner.
 
-.. image:: Desktop.png
+.. image:: Desktop-rooms.gif
+
+You can also type in other known homeservers here.
 
 
 Can I donate or help?
