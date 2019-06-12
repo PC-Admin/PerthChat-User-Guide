@@ -70,16 +70,26 @@ On desktop/browser, select the ‘Room directory "+"’ option in the left colum
 You can also type in other known homeservers here.
 
 
+I joined an encrypted room and now i'm being asked to verify?
+=============================================================
+
+Ideally end-to-end encryption requires users to verify each others keys, although this isn't strictly required.
+
+**Do not click the 'verify' button**, first call the person you are trying to perform this verification with using another medium. (eg: phone/facebook) Then attempt the verification.
+
+If you don't want to call them and are feeling a bit lazy, click 'send anyway', there is no point in you attempting verification if you don't first contact that person through another medium.
+
+
 Can I donate or help?
 =====================
 
-Sure, the service costs about $500 USD a year to run, some help paying for it would be great:
+Sure, the service costs about $200 USD a year to run, some help paying for it would be great:
 
 .. image:: Bitcoin_Address.png
 
 BTC: bc1q92x9rexsr7yvghmyjkdjg8th8f2xyctfuwr4dl
 
-Matrix.org needs more funding to help develop Matrix and bring it out of beta, If you want to support us, consider donating to them as well:
+Matrix.org needs more funding to help develop the Matrix, if you want to support us, consider donating to them:
 https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/
 
 
