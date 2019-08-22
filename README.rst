@@ -4,7 +4,7 @@
 PerthChat User Guide
 ====================
 
-Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (discord), all across a federated network of community run servers.
+Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (telegram/irc), all across a federated network of community run servers.
 
 The service was created to provide a secure, open source and ad-free messaging experience with no strings attached.
 
@@ -59,11 +59,11 @@ What should I do after logging in?
 How do I browse more rooms?
 ===========================
 
-On mobile select the ‘rooms’ category at the bottom, then open the ‘Room Directory’ dropdown. Select ‘matrix.org’ when prompted. The new room list will take about a minute to load so be patient.
+On mobile select the ‘rooms’ category at the bottom, then open the ‘Room Directory’ dropdown. Type the name of the server you wish to browse, eg: ‘matrix.org’. The new room list could take a minute to load so be patient.
 
 .. image:: Mobile-Rooms.gif
 
-On desktop/browser, select the ‘Room directory "+"’ option in the left column, then select ‘matrix.org' from the dropdown in the top right corner.
+On desktop/browser, select the ‘Room directory "+"’ option in the left column, type the name of the server you wish to browse, eg: ‘matrix.org’ into the bar at the top right corner.
 
 .. image:: Desktop-Rooms.gif
 
@@ -83,11 +83,7 @@ If you don't want to call them and are feeling a bit lazy, click 'send anyway', 
 Can I donate or help?
 =====================
 
-Sure, the service costs about $200 USD a year to run, some help paying for it would be great:
-
-.. image:: Bitcoin_Address.png
-
-BTC: bc1q92x9rexsr7yvghmyjkdjg8th8f2xyctfuwr4dl
+Trying to get your friends and family onto the service is helpful. We are also interested in other administrators who want to help us configure custom bridges/integrations/bots for the service.
 
 Matrix.org needs more funding to help develop the Matrix, if you want to support us, consider donating to them:
 https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/
