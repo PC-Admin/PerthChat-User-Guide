@@ -4,11 +4,11 @@
 PerthChat User Guide
 ====================
 
-Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (discord/irc), all across a federated network of community run servers.
+Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (Discord/IRC), all across a federated network of community run servers.
 
 The service was created to provide a secure, open source and ad-free messaging experience with no strings attached.
 
-Public rooms are also bridged to the 'Perth' Discord server: https://discord.gg/Qth5vG3
+Public rooms are also bridged to the Perth Discord server: https://discord.gg/Qth5vG3
 
 
 Why use perthchat.org?
@@ -86,7 +86,7 @@ You can then verify other peoples devices in the same way, now you can be certai
 Can I donate or help?
 =====================
 
-Trying to get your friends and family onto the service is helpful. We are also interested in other administrators who want to help us configure custom bridges/integrations/bots for the service.
+We currently only need help spreading awareness and convincing more people to use the service. If you have any ideas for how we can promote it please reach out to us.
 
 Matrix.org needs more funding to help develop the Matrix, if you want to support us, consider donating to them:
 https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/
