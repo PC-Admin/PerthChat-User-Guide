@@ -54,7 +54,7 @@ What should I do after logging in?
 - Set a personal avatar.
 - Add an email or phone number for recovery.
 - Practise enabling encryption and comparing keys through another medium.
-- Clean up your device keys in settings, logging in by browser can generate too many e2e keys.
+- Clean up your device keys in settings, logging in by browser can generate too many e2ee keys.
 - Try message the admin: ‘@PC-Admin:perthchat.org’
 - Get your friends and family on Perthchat to complete the experience.
 
