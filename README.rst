@@ -31,7 +31,7 @@ Just visit https://client.perthchat.org and click 'register'.
 How do I use PerthChat with the Desktop/Mobile software?
 ========================================================
 
-1. Download, install and open the Riot software, this is the original Matrix client: https://about.riot.im/downloads/
+1. Download, install and open the Riot software, this is the original Matrix client: https://element.io/get-started
 
 2. Select 'Register' or 'Create an account'.
 
