@@ -4,9 +4,11 @@
 PerthChat User Guide
 ====================
 
-Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (telegram/irc), all across a federated network of community run servers.
+Perthchat is a Matrix server hosted for Perth, Matrix has chatroom functions, E2E IM + Voice/Video calling and bridged networks (discord/irc), all across a federated network of community run servers.
 
 The service was created to provide a secure, open source and ad-free messaging experience with no strings attached.
+
+Public rooms are also bridged to the 'Perth' Discord server: https://discord.gg/Qth5vG3
 
 
 Why use perthchat.org?
@@ -15,6 +17,7 @@ Why use perthchat.org?
 - Run by privacy advocates, not ad companies.
 - Service is made with 100% Free and Open Source Software.
 - E2E messenging and voice/video calling.
+- A fun enviroment with lenient moderation standards.
 - No number or email registration required.
 - Free to the public, forever.
 
@@ -22,7 +25,7 @@ Why use perthchat.org?
 How do I use PerthChat online?
 ==============================
 
-Just visit https://perthchat.org and click 'register'.
+Just visit https://client.perthchat.org and click 'register'.
 
 
 How do I use PerthChat with the Desktop/Mobile software?
@@ -32,7 +35,7 @@ How do I use PerthChat with the Desktop/Mobile software?
 
 2. Select 'Register' or 'Create an account'.
 
-3. Select "custom server" and change ‘https://matrix.org’ to ‘https://perthchat.org’:
+3. Select "custom server" and change ‘https://matrix.org’ to ‘https://matrix.perthchat.org’:
 
 4. Enter desired username and password and click ‘Register’.
 
@@ -41,7 +44,7 @@ How do I use PerthChat with the Desktop/Mobile software?
 .. image:: Desktop-Register.gif
 
 Note: If the username you set was ‘Stewo’ then your full Matrix ID would be:
-@Stewo:perthchat.org (case sensitive)
+@stewo:perthchat.org
 
 
 What should I do after logging in?
@@ -59,13 +62,13 @@ What should I do after logging in?
 How do I browse more rooms?
 ===========================
 
-On mobile select the ‘rooms’ category at the bottom, then open the ‘Room Directory’ dropdown. Type the name of the server you wish to browse, eg: ‘matrix.org’. The new room list could take a minute to load so be patient.
+On mobile select the ‘rooms’ category at the bottom, then open the ‘Room Directory’ dropdown.
 
-.. image:: Mobile-Rooms.gif
+.. image:: Mobile-Rooms.png
 
-On desktop/browser, select the ‘Room directory "+"’ option in the left column, type the name of the server you wish to browse, eg: ‘matrix.org’ into the bar at the top right corner.
+On desktop/browser, select the 'Explore rooms' compass option in the top left corner.
 
-.. image:: Desktop-Rooms.gif
+.. image:: Desktop-Rooms.png
 
 You can also type in other known homeservers here.
 
@@ -75,9 +78,9 @@ I joined an encrypted room and now i'm being asked to verify?
 
 Ideally end-to-end encryption requires users to verify each others keys, although this isn't strictly required.
 
-**Do not click the 'verify' button**, first call the person you are trying to perform this verification with using another medium. (eg: phone/facebook) Then attempt the verification.
+Follow the prompts to create a 'secure backup', save this password. Then 'cross-sign' your devices against each other, this creates a web of trust and allows you to recover e2ee messages from previous sessions.
 
-If you don't want to call them and are feeling a bit lazy, click 'send anyway', there is no point in you attempting verification if you don't first contact that person through another medium.
+You can then verify other peoples devices in the same way, now you can be certain your messages are headed to the right devices, and not to an intruder who's trying to MITM your conversations.
 
 
 Can I donate or help?
